@@ -4,4 +4,4 @@
 </p>
 
 
-### [Check out my work here!](https://tanhata.com/)
+### [Check out my work here!](https://tanhata.com/work/)
