@@ -3,10 +3,10 @@
 
 I'm a **multifaceted technologist** with a background in **design, data science, and machine learning**. My work bridges **creativity, data, and innovation**, focusing on solving complex challenges with multidisciplinary approaches.  
 
-## 💡 What I Do  
-🌍 Climate Resilience: Applying data and AI to develop insights and tools that support sustainable urban systems and equitable development.
-🎨 Creative AI Tools: Leveraging machine learning to design AI-driven tools that enhance creative processes and empower designers.
-🛠️ Simulation & Prototyping: Using data science and AI to model and simulate systems, providing valuable insights before real-world application.
+## 💡 What I Do   
+- 🎨 **Creative AI Tools**: Leveraging machine learning to design **AI-driven tools** that enhance creative processes and empower designers.
+- 🌍 **Climate Resilience**: Applying data and AI to develop insights and tools that support sustainable urban systems and equitable development. 
+- 🛠️ **Simulation & Prototyping**: Using data science and AI to model and simulate systems, providing valuable insights before real-world application.  
 
 ## 💼 My Journey  
 I’m trained in **design, architecture, and data science/machine learning**, and I thrive on using my **multidisciplinary background** to approach problems from fresh perspectives. Whether it's optimizing processes, building AI solutions, or improving decision-making, I’m passionate about creating products that are **data-driven and impactful**.  
