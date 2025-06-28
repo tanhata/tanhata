@@ -9,7 +9,7 @@ I'm a **data-driven innovator** with expertise in **data analysis, machine learn
 - 🌐 **Interdisciplinary Collaboration**: Partnering with clients and teams from diverse fields to create innovative, tailored solutions that bridge technical expertise and domain knowledge.  
 
 ## 💼 My Unique Skillset  
-With a foundation in **design, architecture, and machine learning**, I thrive at the intersection of creativity and data. I bring a **multidisciplinary perspective** to every project, seamlessly blending analytical rigor with design thinking to deliver impactful solutions.  
+With a foundation in **design and machine learning**, I thrive at the intersection of creativity and data. I bring a **multidisciplinary perspective** to every project, seamlessly blending analytical rigor with design thinking to deliver impactful solutions.  
 
 ### My core strengths include:  
 - **Data Science & Machine Learning**: Expertise in predictive modeling, NLP, and data-driven decision-making.  
